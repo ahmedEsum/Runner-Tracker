@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BetHoveen/AndroidStudioProjects/RunnerTraker/app/src/main/res/drawable/botton_nav_selector.xml" value="0.2703125" />
+        <entry key="..\:/Users/BetHoveen/AndroidStudioProjects/RunnerTraker/app/src/main/res/layout-land/fragment_statistics.xml" value="0.28072916666666664" />
+        <entry key="..\:/Users/BetHoveen/AndroidStudioProjects/RunnerTraker/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BetHoveen/AndroidStudioProjects/RunnerTraker/app/src/main/res/layout/fragment_run.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BetHoveen/AndroidStudioProjects/RunnerTraker/app/src/main/res/layout/fragment_setting.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BetHoveen/AndroidStudioProjects/RunnerTraker/app/src/main/res/layout/fragment_setup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BetHoveen/AndroidStudioProjects/RunnerTraker/app/src/main/res/layout/fragment_statistics.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BetHoveen/AndroidStudioProjects/RunnerTraker/app/src/main/res/layout/fragment_tracking.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BetHoveen/AndroidStudioProjects/RunnerTraker/app/src/main/res/layout/item_view.xml" value="0.264" />
+        <entry key="..\:/Users/BetHoveen/AndroidStudioProjects/RunnerTraker/app/src/main/res/layout/marker_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BetHoveen/AndroidStudioProjects/RunnerTraker/app/src/main/res/menu/cancel_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/BetHoveen/AndroidStudioProjects/RunnerTraker/app/src/main/res/menu/nav_menu.xml" value="1.525" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
